@@ -1,0 +1,1 @@
+print ("Ki ez a szar")
